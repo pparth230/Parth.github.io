@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to My Blog
+title: Blog
 ---
 
-Welcome to my personal blog where I share my thoughts and experiences.
+I write to make sure I have understood the concepts well
