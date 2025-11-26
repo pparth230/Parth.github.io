@@ -1,0 +1,11 @@
+title: Parth's Blog
+email: pparth230@gmail.com
+description: My personal blog about technology and life
+baseurl: ""
+url: "https://pparth230.github.io"
+theme: minima
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
