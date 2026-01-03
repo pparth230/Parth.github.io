@@ -1,7 +1,7 @@
 ---
 layout: post
 title: " How does curiosity affects learning?"
-date: 2026-01-03 21:35:00 +0530
+date: 2026-01-02 21:35:00 +0530
 categories: blog
 ---
 
