@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: " How does curiosity affects learning?"
@@ -7,15 +6,13 @@ categories: blog
 ---
 
 
-Assumptions about what education means are quite inefficient, to say the least. 
-These methods tend to focus on teaching basics as foundation without dealing with any form of high-level abstractions.
-To me, that's pretty counterintuitive. For example, any striking idea or interesting concept has my attention when it
-explains what it can do at its highest possibilities instead of just the basics of it. Einstein's work on relativity is 
-one of the ideas that falls in this pool of thought. The fact that it explains the very nature of space and time exceeds 
-the idea of computing using the formula. In my opinion, it is much more interesting to come from high-level abstractions 
-to low-level executions. It is much better to begin with the theory of relativity and come down all the way to learning calculus, 
-the language in which physics is written.
-These kinds of high-level abstractions are often labeled as good storytelling, but I refuse to believe it's just storytelling, yes,
-it can be one part of it. But what leads the learning for me is the curiosity, it is precisely the terms that I don't understand in 
-the story. A part of this writing is coming out of frustration about the need of building into a climax. This kind of approach might
-work for fiction, but for learning, this doesn't help.
+Assumptions about what education means are quite inefficient, to say the least. These methods tend to focus on teaching basics as foundation without dealing with any form of high-level abstractions. To me, that's pretty counterintuitive. For example, any striking idea or interesting concept has my attention when it explains what it can do at its highest possibilities instead of just the basics of it. Einstein's work on relativity is one of the ideas that falls in this pool of thought. The fact that it explains the very nature of space and time exceeds the idea of computing using the formula. In my opinion, it is much more interesting to come from high-level abstractions to low-level executions. It is much better to begin with the theory of relativity and come down all the way to learning calculus, the language in which physics is written.
+These kinds of high-level abstractions are often labeled as good storytelling, but I refuse to believe it's just storytelling, yes, it can be one part of it. But what leads the learning for me is the curiosity, it is precisely the terms that I don't understand in the story. A part of this writing is coming out of frustration about the need of building into a climax. This kind of approach might work for fiction, but for learning, this doesn't help.
+
+Humans are hardwired to work on rewards and incentives. We want to find the reasons, or more bluntly put, the excuse behind learning something. If this theory stands to be true, then why not reveal the goal in the first place? Think about the last time you wanted to learn something, there are likely chances that it spawned out of looking at some sort of output. The emphasis on process is usually not correctly explained. As an individual starting out learning physics, I don't want the realization of how important it is to remember equations as a fact, but rather I think the more appropriate way is to harness this curiosity about what can happen if we know the formulas. It's this incentive to imagination which does the wonder.
+
+Karl Popper and David Deutsch best explain this in their work: the need to sit with the problem instead of trying to predict the solutions for it. I have been wrong about how to learn pretty much my whole life from this perspective that there is no need to find a solution. Just following the leads of curiosity about anything leads to better understanding. I don't know how this works, but isn't it weird when the math behind things doesn't add up? It's unsettling. Your brain kind of wants to find the correct math. Once you figure out one part of the technology, you run into more problems. I think this is not some random magic, it's the only way to validate the actions of learning, and in order to have rounds of problems, long form learning is required.
+
+It's this idea to actively look for unsettling things, with of course some sort of method to question the problem. The more unsettling things we find, the deeper we go in learning. This in turn also means going to much lower-level language access. Once the math adds up, you suddenly find yourself in a situation of being fascinated by the story to figuring out why it ended up in that place. I think this reward mechanism has helped me more than any single course offering understanding from basic to advanced level. You kind of want to have this feeling of first knowing the concept before knowing the how-tos.
+
+More than ever in the case of our species, we now have the means to begin every single thing from high-level abstractions to going all the way to the low level. This theory of relations between long form learning and curiosity is not something I haven't come across before. It's this firsthand experience that tells me why it's hard to find fun in any technical subjects. It's like thinking people deliberately suck the fun out of low-level understanding by not giving me something to dream about on a higher level of abstraction
